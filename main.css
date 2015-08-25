@@ -88,6 +88,7 @@ li {
 }
 .odkaz {
 	color: #3F3F3F;
+	padding: 5px;
 }
 .odkaz:hover {
 	text-decoration: underline;
@@ -116,3 +117,33 @@ li {
 	width: 35px;
 	margin-right: 27px;
 	margin-top: 1px;
+}
+/*
+----------------
+Hlavni cast
+-----------------
+*/
+.hlavni {
+	height: 854px;
+	background: green;
+}
+/*
+----------------
+Spodní navigace
+-----------------
+*/
+
+.primary-footer{
+	background: #DADADA;
+	padding-bottom: 14px;
+	padding-top: 14px;
+
+}
+.secondary-nav {
+	padding-left: 20px;
+}
+.udaje{
+	position:relative;
+	left: 1100px;
+	padding: 5px;
+}
