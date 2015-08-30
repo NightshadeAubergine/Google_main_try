@@ -152,7 +152,7 @@ h3 {
 	position: relative;
 	left: 54%;
 	top: 89%;
-	width: 150px;
+	width: 160px;
 	text-align: center;
 	font: normal normal bold 17px Arial;
 	color: #818181;
@@ -164,7 +164,7 @@ h3 {
 .vyhledat input {
 	height: 30px;
 	width: 550px;
-	display: block;
+	position: center;
 } 
 
 /*
