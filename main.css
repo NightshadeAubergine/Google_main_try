@@ -139,18 +139,21 @@ Hlavni cast
 */
 .hlavni {
 	height: 853px;
-	width: inherit;
+	width: 800px;
+	margin-left:29%;
+	position: relative;
 }
 .nadpis {
 	height: 28%;
 	width: 100%;
+	position: relative;
 	background-image: url("img/Logo_Google.png");
 	background-repeat: no-repeat;
 	background-position: 50% 100%;
 }
 h3 {
 	position: relative;
-	left: 54%;
+	left: 59%;
 	top: 89%;
 	width: 160px;
 	text-align: center;
@@ -158,7 +161,7 @@ h3 {
 	color: #818181;
 }
 .vyhledat {
-	padding-left: 36%;
+	padding-left: 16%;
 	padding-top: 1%;
  }
 .vyhledat input {
@@ -182,17 +185,18 @@ Spodní navigace
 
 .udaje {
 	position:relative;
-	padding-left: 30px;
+	margin-left: 30px;
 }
 .udaje:first-child {
-	padding-left: 1100px;
+	margin-left: 1100px;
 }
 .secondary-nav ul li { 
+	position: relative;
 	float:left;
-	display:block;
+	display: block;
 }
 .leve_odkazy .odkaz{
-	padding-left: 30px;
+	margin-left: 30px;
 }
 /*
 --------------------
